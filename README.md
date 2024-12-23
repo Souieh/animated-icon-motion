@@ -2,6 +2,8 @@
 
 This project demonstrates the use of **React** and **Framer Motion** to create animated success and error icons. The icons come in both **filled** and **outlined** variants, with smooth animation transitions that indicate success or failure. Each icon's paths have customizable delays for more dynamic visual effects.
 
+![My Image](./miscs/icons.png)
+
 ## Features
 
 - Animated success and error icons
